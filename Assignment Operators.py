@@ -1,0 +1,9 @@
+a=15
+b=4
+print("Sum = ",a+b)
+print("Product = ",a*b)
+print("Difference = ",a-b)
+print("Divide = ",a/b)
+print("Power = ",a**b)
+print("Modulus = ",a%b)
+print("Floor Division = ",a//b)
